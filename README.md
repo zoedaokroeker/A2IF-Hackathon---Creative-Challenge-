@@ -1,5 +1,15 @@
 # A2IF-Hackathon---Creative-Challenge-
-This is a page of resources for the Access2Innovate Foundations Hackathon - Creative Challenge Category 
+This is a page of resources for the Access2Innovate Foundations Hackathon - Creative Challenge Category.
+
+In the Creative Game Jam Challenge, participants will design and build a drone-themed game using any platform of their choice. Examples in this repository consist of starter projects, and manuals for game development in Roblox Studio, Unity, Scratch, and Microsoft Makecode Arcade. 
+
+To view the documents and access the links in detail please download the files.
+
+Projects will be evaluated on creativity, gameplay design, theme integration, and overall user experience. More detials on the evaluation ruberic are provided in the discord channel.
+
+Sign up for the challenge here: https://access2innovate.com/hackathon
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 Roblox Studio Game Example
 
