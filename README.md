@@ -16,3 +16,10 @@ https://youtu.be/ioNM3WgqFHg
 ![UnityDroneExample](https://github.com/user-attachments/assets/7dc2810e-6659-474f-880c-3572daffaae1)
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
+Microsoft MakeCode Arcade Drone Game Example
+
+![A2IF Hackathon - Makecode Demo](https://github.com/user-attachments/assets/c09d0365-8e2b-4050-85e2-12efc9df1310)
+
+
+----------------------------------------------------------------------------------------------------------------------------------
