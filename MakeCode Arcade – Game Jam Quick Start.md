@@ -20,6 +20,7 @@ Learn how to make your player sprite move using arrow keys or WASD.
 Create an enemy sprite that can move and interact with the player.
 
 
+![ezgif-267dbfa42db9ff33](https://github.com/user-attachments/assets/b792044a-d863-4f2f-96be-82ca2007c385)
 
 
 **Tip:** Set the sprite kind to `Enemy` and use `on sprite overlap` to handle collisions.
@@ -52,4 +53,5 @@ Share your MakeCode Arcade game so others can play it.
 
 
 If you’re stuck, try the official [MakeCode Arcade tutorials](https://arcade.makecode.com/tutorials) to learn basic mechanics and expand your game ideas.
+
 
