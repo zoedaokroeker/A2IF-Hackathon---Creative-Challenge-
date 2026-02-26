@@ -30,7 +30,8 @@ Create an enemy sprite that can move and interact with the player.
 
 Add a scoring system and player lives to make the game playable and fun.
 
-![Uploading AddingLivesGIF.gif…]()
+![AddingLivesGIF](https://github.com/user-attachments/assets/9368f9ff-9e14-4786-b85f-20daba37dfb7)
+
 
 **Tip:** Use `changeScoreBy(1)` to update the score, and `changeLifeBy(-1)` for player damage.
 
@@ -51,3 +52,4 @@ Share your MakeCode Arcade game so others can play it.
 
 
 If you’re stuck, try the official [MakeCode Arcade tutorials](https://arcade.makecode.com/tutorials) to learn basic mechanics and expand your game ideas.
+
