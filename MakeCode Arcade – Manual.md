@@ -8,7 +8,8 @@ Welcome! This guide shows the **core steps for building simple game mechanics in
 
 Learn how to make your player sprite move using arrow keys or WASD.
 
-![Move Character](MoveaCharacterGIF.gif)
+![movecharacter](https://github.com/user-attachments/assets/8a203c1d-9e90-4b73-9995-4b9f37a59e45)
+
 
 **Tip:** Make sure you set your sprite kind to `Player` so collisions work properly.
 
@@ -18,7 +19,7 @@ Learn how to make your player sprite move using arrow keys or WASD.
 
 Create an enemy sprite that can move and interact with the player.
 
-![Add Enemies](AddingEnemiesGIF.gif)
+
 
 **Tip:** Set the sprite kind to `Enemy` and use `on sprite overlap` to handle collisions.
 
@@ -28,7 +29,7 @@ Create an enemy sprite that can move and interact with the player.
 
 Add a scoring system and player lives to make the game playable and fun.
 
-![Scoring and Lives](AddingLivesGIF.gif)
+
 
 **Tip:** Use `changeScoreBy(1)` to update the score, and `changeLifeBy(-1)` for player damage.
 
@@ -38,12 +39,13 @@ Add a scoring system and player lives to make the game playable and fun.
 
 Share your MakeCode Arcade game so others can play it.
 
-![Publish Game](PublishGameGIF.gif)
+
 
 **Tip:** Click **Share → Publish Project** and copy the link for submission. Do not use the hardware download option.
 
 ---
 
 ## Need More Help?
+
 
 If you’re stuck, try the official [MakeCode Arcade tutorials](https://arcade.makecode.com/tutorials) to learn basic mechanics and expand your game ideas.
